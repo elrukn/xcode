@@ -22,6 +22,7 @@
 		3DEDC91F161F279400846D1F /* JsonHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DEDC91E161F279400846D1F /* JsonHelper.m */; };
 		3DEDC922161F296400846D1F /* WallpaperCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DEDC921161F296400846D1F /* WallpaperCell.m */; };
 		3DEDC924161F2AF200846D1F /* WallpaperCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDC923161F2AF200846D1F /* WallpaperCell.xib */; };
+		3DEDC92A161F385400846D1F /* 1193-iphone-ilt-day.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3DEDC929161F385400846D1F /* 1193-iphone-ilt-day.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		3DEDC920161F296400846D1F /* WallpaperCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WallpaperCell.h; sourceTree = "<group>"; };
 		3DEDC921161F296400846D1F /* WallpaperCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WallpaperCell.m; sourceTree = "<group>"; };
 		3DEDC923161F2AF200846D1F /* WallpaperCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WallpaperCell.xib; sourceTree = "<group>"; };
+		3DEDC929161F385400846D1F /* 1193-iphone-ilt-day.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1193-iphone-ilt-day.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		3DEDC8F9161F23A900846D1F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3DEDC929161F385400846D1F /* 1193-iphone-ilt-day.jpg */,
 				3DEDC917161F24A800846D1F /* Tile-14.jpg */,
 				3DEDC8FA161F23A900846D1F /* Wallpapers-Info.plist */,
 				3DEDC8FB161F23A900846D1F /* InfoPlist.strings */,
@@ -181,6 +184,7 @@
 				3DEDC90F161F23AA00846D1F /* ViewController.xib in Resources */,
 				3DEDC918161F24A800846D1F /* Tile-14.jpg in Resources */,
 				3DEDC924161F2AF200846D1F /* WallpaperCell.xib in Resources */,
+				3DEDC92A161F385400846D1F /* 1193-iphone-ilt-day.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -53,6 +53,7 @@
         NSString *imageUrl = [[NSString alloc] initWithFormat:@"http://localhost/ios/wallpapers/%@",thumb];
         NSString *imageUrlEscaped = [imageUrl stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
         
+        // http://stackoverflow.com/questions/7417257/ios-problem-with-resize-a-uiimage
         thumbImage.image = [UIImage imageWithData:[NSData dataWithContentsOfURL:[NSURL URLWithString:imageUrlEscaped]]];
     }
 }
