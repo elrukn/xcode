@@ -6,9 +6,9 @@
 //  Copyright (c) 2012 Cristian Barbu. All rights reserved.
 //
 
-#import "BIDJson.h"
+#import "Json.h"
 
-@implementation BIDJson
+@implementation Json
 
 - (id)init
 {
